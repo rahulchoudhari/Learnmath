@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# Demo
 import random, time, os
 class color:
    PURPLE = '\033[95m'
